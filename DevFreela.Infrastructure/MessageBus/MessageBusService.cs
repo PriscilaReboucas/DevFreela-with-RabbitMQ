@@ -15,7 +15,7 @@ namespace DevFreela.Infrastructure.MessageBus
             };
         }
         /// <summary>
-        /// Publicando a mensagem
+        /// Publicando a mensagem com RabbitMQ
         /// </summary>
         /// <param name="queue"></param>
         /// <param name="message"></param>
